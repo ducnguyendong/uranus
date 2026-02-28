@@ -1,18 +1,20 @@
-# Uranus - Chess Book Digitization Project
+# URANUS - Chess Book Digitization System
+## Architecture (Uranus Master Engine v5.0)
 
-## Core System
-- **Engine:** Uranus Master v5.0 (Hybrid Mode)
-- **OCR:** Marker (AI-driven)
-- **Vision:** Gemini Flash Vision
-- **Document Generation:** Python-Docx & Pandoc
+### 🛠️ Core Technologies:
+- **OCR Engine:** Marker (AI-driven Markdown conversion)
+- **Vision Model:** Gemini Flash Vision (for chess move translation and verification)
+- **Document Layout:** Python-Docx & Pandoc v3.1.11
+- **Image Processing:** OpenCV & Contours v6 (chessboard extraction)
 
-## Tools
-- `uranus_master.py`: Main orchestration script.
-- `uranus_batch_ocr_fixed.py`: Batch OCR processing.
-- `crop_v6_final.py`: Advanced chessboard extraction.
-- `create_docx.py`: Professional Word formatting.
+### ⚙️ 3-Phase Process:
+1. **Extraction:** Automated board cropping and raw OCR.
+2. **Refinement:** AI-assisted translation to professional Vietnamese chess terminology.
+3. **Packaging:** Automated Word (.docx) generation with professional formatting.
 
-## Status
-- Core infrastructure established.
-- Telegram Bridge (Uranus Mirror) configured.
-- Prompt engineering for Vietnamese chess terminology refined.
+### 📲 Integration:
+- **Telegram Bridge:** Uranus Mirror Bridge for remote monitoring.
+- **Search:** Brave Search API integration for terminology verification.
+
+---
+*Memory cleaned on 2026-02-28. System core preserved.*
