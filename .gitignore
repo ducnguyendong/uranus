@@ -1,9 +1,18 @@
-.env.brave
+# Ignore all subdirectories containing processing data
+1*/
+2*/
+3*/
+output/
+temp/
+
+# Ignore logs
 *.log
-_meta.json
-node_modules/
-dist/
-build/
+
+# Ignore env files (safety)
+.env*
 .openclaw/
-# Only exclude the content of memory, not the folder itself if we want to keep the structure
-# memory/*
+
+# Keep markdown and python files
+!*.md
+!*.py
+!memory/
