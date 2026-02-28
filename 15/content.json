@@ -1,0 +1,85 @@
+{
+  "header": "Tượng Kỳ Tàn Cục Đại Toàn",
+  "blocks": [
+    {
+      "type": "text",
+      "content": [
+        { "text": "Ví dụ 2", "bold": true, "size": 14 }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 1,
+      "figure_label": "(Hình 15)",
+      "description": "Như (Hình 2). Đỏ dùng Binh khống chế Tướng, dùng Sĩ quản Tốt mà giành chiến thắng.",
+      "moves": [
+        ["① Binh 4 bình 5", "Tướng 5 thoái 1"],
+        ["② Sĩ 4 tấn 5", "Tướng 5 thoái 1"],
+        ["③ Binh 5 tấn 1", "Tướng 5 bình 4"],
+        ["④ Binh 5 tấn 1", "(Đỏ thắng)"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Ví dụ 3", "bold": true, "size": 14 }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Trong tình huống thông thường, chỉ đơn Sĩ có thể thủ hòa đơn Binh. Như (Hình 3) là trường hợp đặc biệt, Binh và Soái của bên Đỏ vừa khéo khống chế Tướng đen, hình thành thế công kích kẹp hai hướng, tức là thế “Tả Binh Hữu Soái”, từ đó giành chiến thắng.", "italic": false }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 2,
+      "figure_label": "(Hình 16)",
+      "moves": [
+        ["① Binh 6 tấn 1!", "........."]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Chú thích: Nếu đổi đi, Binh 6 bình 5? Sĩ 4 tấn 5, Binh 5 tấn 1, Sĩ 5 thoái 6! Binh 5 bình 6, Tướng 5 bình 4, Soái 4 bình 5, Sĩ 6 tấn 5, Binh 6 bình 5, Sĩ 5 thoái 6, hòa cờ.", "italic": true }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "① ......... Sĩ 4 tấn 5", "bold": false }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Chú thích: Nếu đổi đi, Tướng 5 tấn 1, Soái 4 tấn 1, Tướng 5 thoái 1, Binh 6 tấn 1, Sĩ 4 tấn 5, Soái 4 bình 5, Đỏ thắng.", "italic": true }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 2,
+      "figure_label": "",
+      "moves": [
+        ["② Binh 6 tấn 1", "Sĩ 5 tấn 6"],
+        ["③ Soái 4 tấn 1!", "Sĩ 6 thoái 5"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Chú thích: Nếu đổi đi, Tướng 5 bình 6, Binh 6 bình 5, khốn bí (hết nước đi).", "italic": true }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 2,
+      "figure_label": "",
+      "moves": [
+        ["④ Soái 4 bình 5", "Tướng 5 bình 6"],
+        ["⑤ Binh 6 bình 5", "(Đỏ thắng)"]
+      ]
+    }
+  ]
+}

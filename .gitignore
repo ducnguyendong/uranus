@@ -1,0 +1,9 @@
+.env.brave
+*.log
+_meta.json
+node_modules/
+dist/
+build/
+.openclaw/
+# Only exclude the content of memory, not the folder itself if we want to keep the structure
+# memory/*

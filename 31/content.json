@@ -1,0 +1,78 @@
+{
+  "header": "Tượng Kỳ Tàn Cục Đại Toàn",
+  "blocks": [
+    {
+      "type": "text",
+      "content": [
+        {
+          "text": "Tiết 6: Nghiên cứu các thế hòa đặc biệt",
+          "bold": true
+        },
+        {
+          "text": "Tiết này sẽ tập trung thảo luận về một số tàn cuộc hòa tinh diệu và tương đối phức tạp liên quan đến Song Binh (Song Tốt).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        {
+          "text": "Ví dụ 1:",
+          "bold": true
+        },
+        {
+          "text": "Như (Hình 29), bên Đỏ không cách nào bắt được Tốt đáy của bên Đen, trong khi Song Tốt của bên Đen có thể quấy nhiễu sự tấn công của bộ ba Pháo - Sĩ - Soái bên Đỏ, khiến Đỏ không thể cấu thành thế sát. Hai cách tấn công sau đây sẽ tạo nên những ván cờ hòa tinh xảo và đặc sắc.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 1,
+      "figure_label": "(Hình 29)",
+      "moves": [
+        ["1. Pháo 5 bình 4", "Tốt 8 bình 7"],
+        ["2. Soái 6 tiến 1", "Tướng 6 bình 5"],
+        ["3. Pháo 4 bình 1", "Tốt 7 bình 8"],
+        ["4. Sĩ 5 tiến 4", "Tướng 5 tiến 1"],
+        ["5. Pháo 1 bình 9", "Tốt 3 bình 2"],
+        ["6. Pháo 9 bình 5", "Tốt 8 bình 7"],
+        ["7. Pháo 5 thoái 4", "Tốt 7 bình 6"],
+        ["8. Pháo 5 tiến 4", "(Hòa cờ)"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        {
+          "text": "Cách 2:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 1,
+      "figure_label": "",
+      "moves": [
+        ["1. Sĩ 5 tiến 4", "Tướng 6 bình 5!"],
+        ["Ghi chú:", "Nếu Đen đi sai: Tốt 8 bình 7?? Đỏ sẽ đi Pháo 5 bình 1, Tốt 7 bình 8, Soái 6 bình 5. Đỏ thắng."],
+        ["2. Pháo 5 thoái 4", "Tốt 8 bình 7"],
+        ["3. Sĩ 4 thoái 5", "Tướng 5 bình 6"],
+        ["4. Soái 6 tiến 1", "Tướng 6 tiến 1"],
+        ["5. Soái 6 bình 5", "Tốt 7 bình 6!"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        {
+          "text": "Phân tích: Phế Tốt! Đây là đòn đánh vừa đặc sắc, vừa là thủ đoạn quan trọng để cầu hòa. Nếu Đen đi sai bằng cách chơi Tướng 6 thoái 1, Đỏ sẽ chơi Sĩ 5 tiến 4, Tốt 7 bình 6, Pháo 5 tiến 1. Đỏ thắng.",
+          "bold": false,
+          "italic": true
+        }
+      ]
+    }
+  ]
+}

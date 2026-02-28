@@ -1,0 +1,39 @@
+{
+  "header": "Tượng Kỳ Tàn Cục Đại Toàn",
+  "blocks": [
+    {
+      "type": "text",
+      "content": [{"text": "Ví dụ 3 - Hình 7", "bold": true}],
+      "size": 14
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 1,
+      "figure_label": "Hình 7",
+      "moves": [
+        ["1. Chốt 4 tiến 1", "Mã 3 thoái 5"],
+        ["2. Chốt 4 tiến 1", "Mã 5 tiến 7"],
+        ["3. Tướng 4 tiến 1", "Mã 7 tiến 8"],
+        ["4. Tướng 4 thoái 1", "(Hòa cờ)"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [{"text": "Ví dụ 4 - Hình 8", "bold": true}],
+      "size": 14
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 2,
+      "figure_label": "Hình 8",
+      "moves": [
+        ["1. Chốt 7 bình 6", "Pháo 4 bình 5"],
+        ["2. Tướng 5 bình 6", "Tướng 6 tiến 1"],
+        ["3. Tướng 6 thoái 1", "Tướng 6 bình 5"],
+        ["4. Chốt 6 bình 5", "Tướng 5 bình 6"],
+        ["5. Chốt 5 bình 6", "Pháo 5 bình 4"],
+        ["6. Tướng 6 bình 5", "(Hòa cờ)"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "header": "Tượng Kỳ Tàn Cục Đại Toàn",
+  "blocks": [
+    {
+      "type": "text",
+      "content": [
+        { "text": "Ví dụ 4", "bold": true, "size": 14 }
+      ]
+    },
+    {
+      "type": "chess_layout",
+      "board_index": 1,
+      "figure_label": "(Hình 17)",
+      "moves": [
+        ["① Tướng 5 tấn 1!", "Sĩ 5 thoái 6"],
+        ["② Binh 5 bình 6", "Tướng 5 tấn 1"],
+        ["③ Tướng 5 bình 4", "Tướng 5 thoái 1"],
+        ["④ Binh 6 tấn 1", "Sĩ 6 tấn 5"],
+        ["⑤ Tượng 5 tấn 3", "Sĩ 5 thoái 6"],
+        ["⑥ Tướng 4 tấn 1", "Sĩ 6 tấn 5"],
+        ["⑦ Tướng 4 bình 5", "Tướng 5 bình 6"],
+        ["⑧ Binh 6 bình 5", "(Đỏ thắng)"]
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Chú thích: Như (Hình 4) là thế cờ thắng nhờ sự trợ công của quân Tượng. Quân Tượng này ngoài tác dụng che mặt tướng (làm ngòi), còn có thể hỗ trợ chốt đỏ khống chế Tướng đen.", "italic": true },
+        { "text": "Nước thứ 1, Tướng 5 tấn 1 là một nước chờ rất cần thiết, khiến bên Đen rơi vào thế hết nước đi. Cần tránh đi sai: Tượng 5 tấn 3, Sĩ 5 thoái 4, Tướng 5 bình 4, Sĩ 4 tấn 5, Tướng 4 bình 5, Sĩ 5 thoái 4, Tướng 5 tấn 1, Tướng 5 tấn 1, Tướng 5 bình 6, Binh 5 bình 4, Sĩ 4 tấn 5, Binh 4 bình 5, Sĩ 5 thoái 4, hòa cờ.", "italic": true }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        { "text": "Tiết 2: Đơn Binh lệ hòa cuộc", "bold": true, "size": 14 },
+        { "text": "Một số thế trận tất hòa có ý nghĩa điển hình được gọi là tàn cuộc \"Lệ hòa\". Người học cần nắm vững các loại hình lệ hòa này, đây là kiến thức thường thức cơ bản của kỳ thủ. Dưới đây là các ví dụ về đơn binh lệ hòa." }
+      ]
+    }
+  ]
+}
